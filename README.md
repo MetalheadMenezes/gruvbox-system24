@@ -1,6 +1,10 @@
 
 <img src="https://github.com/refact0r/system24/raw/main/assets/preview.png">
 
+## this fork
+
+Hi! This is a fork of this amazing theme for Discord. I just so happened to be searching for themes that'd fit my Linux rice based on  tui-like elements and the Gruvbox color scheme, and found this theme, but, it sadly didn't have a Gruvbox flavour, so, I did my best in editing the CSS and made myself one! Feel free to use, because I'm just a random user who edited this for fun lol :)
+
 # system24
 
 a customizable, tui-style discord theme. inspired by [spicetify text theme](https://github.com/spicetify/spicetify-themes/tree/master/text).
