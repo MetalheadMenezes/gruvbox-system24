@@ -5,6 +5,8 @@
 
 Hi! This is a fork of this amazing theme for Discord. I just so happened to be searching for themes that'd fit my Linux rice based on  tui-like elements and the Gruvbox color scheme, and found this theme, but, it sadly didn't have a Gruvbox flavour, so, I did my best in editing the CSS and made myself one! Feel free to use, because I'm just a random user who edited this for fun lol, and btw I probably won't update this any sooner so sorry buddies, but you can fork this fork if you want to :)
 
+<img src="https://github.com/MetalheadMenezes/gruvbox-system24/raw/main/screenshot-2026-01-12_23-30-57.png">
+
 All credits to refact0r! Thanks for the amazing theme!
 
 Below is the OG readme so you can still read everything:
